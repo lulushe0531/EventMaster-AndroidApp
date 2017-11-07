@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">She_Tan</string>
+    <string-array name="continents">
+        <item>Africa</item>
+        <item>Asia</item>
+        <item>Australia</item>
+        <item>Europe</item>
+        <item>North America</item>
+        <item>South America</item>
+    </string-array>
+</resources>
